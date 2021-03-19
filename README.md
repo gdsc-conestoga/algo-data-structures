@@ -9,6 +9,8 @@ This is a repository for the Algorithms and Data Structures event series.
 ## Learn
 1. [Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 2. [GeekForGeeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm)
+3. [Programiz](https://www.programiz.com/dsa)
+4. [Udacity - Intro to DSA](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
 
 ## Practice
 1. [Hackerrank](https://www.hackerrank.com/)
