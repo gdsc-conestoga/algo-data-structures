@@ -1,9 +1,11 @@
-const { bubbleSort } = require('./bubblesort')
+const { bubbleSort } = require('./bubblesort');
+const { mergeSort } = require('./mergesort');
 
-const arr = [9, 8, 1, 2];
 
-bubbleSort(arr);
-
+let arr = [9, 8, 1, 2];
+arr = bubbleSort(arr);
 console.log(arr); // [1, 2, 8, 9]
 
-bubbleSort([5, 1, 2, 3, 4]);
+arr = [5, 1, 3, 2, 4];
+arr = mergeSort(arr);
+console.log(arr); // [1, 2, 3, 4, 5]
