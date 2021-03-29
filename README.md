@@ -13,6 +13,7 @@ This is a repository for the Algorithms and Data Structures event series.
 2. [GeekForGeeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm)
 3. [Programiz](https://www.programiz.com/dsa)
 4. [Udacity - Intro to DSA](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+5. [Visualgo](https://visualgo.net/en)
 
 ## Practice
 1. [Hackerrank](https://www.hackerrank.com/)
